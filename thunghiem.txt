@@ -1,2 +1,3 @@
-dir
-Tran Thi Vi Thuc
+Tran Thi Vi Thuc 
+japan
+Tokyo
